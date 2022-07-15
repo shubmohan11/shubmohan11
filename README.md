@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Ciao 👋, I'm Shubham</h1>
 <h3 align="center">I am a Tech and Coding enthusiast and a Frontend Developer based in Bangalore, India. I am currently working as React.js developer in Tata Consultancy Services.</h3>
 
